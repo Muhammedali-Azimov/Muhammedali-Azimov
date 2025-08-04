@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=default" alt="GitHub Streak" />
+</p>
+
 <!--
 **Muhammedali-Azimov/Muhammedali-Azimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
