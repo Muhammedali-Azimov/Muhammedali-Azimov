@@ -1,24 +1,21 @@
-## Hi there 👋
-
-## 📊 GitHub Stats
+<h1 align="center">👋 Hey, I'm Muhammedali Azimov</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammedali-Azimov&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammedali-Azimov&theme=default" alt="GitHub Streak" />
+  🧙‍♂️ Backend Developer | ⚙️ .NET Enthusiast | 🧠 Clean Code Advocate  
 </p>
 
-<!--
-**Muhammedali-Azimov/Muhammedali-Azimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammedali-Azimov&label=Profile+Views" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Developer Philosophy
+
+> _"If your code needs a comment to explain what it does, rewrite it. If it needs a comment to explain **why** it does it, write the comment."_  
+> – Also me: “Don’t ship it if you wouldn’t debug it.”
+
+---
+
+<h3 align="center">Let’s build something resilient, fast, and elegant. 🚀</h3>
+
