@@ -5,6 +5,13 @@
 </p>
 
 <p align="center">
+
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammedali-Azimov&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammedali-Azimov&theme=default" alt="GitHub Streak" />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=Muhammedali-Azimov&label=Profile+Views" alt="profile views" />
 </p>
 
