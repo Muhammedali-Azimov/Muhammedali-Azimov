@@ -8,7 +8,7 @@
 
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammedali-Azimov&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammedali-Azimov&show_icons=true&theme=default&count_private=true&include_all_commits=true&v=3" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammedali-Azimov&theme=default" alt="GitHub Streak" />
   <br/>
