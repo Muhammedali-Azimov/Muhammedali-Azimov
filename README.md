@@ -3,9 +3,7 @@
 <p align="center">
   🧙‍♂️ Backend Developer | ⚙️ .NET Enthusiast | 🧠 Clean Code Advocate  
 </p>
-
 <p align="center">
-
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammedali-Azimov&show_icons=true&theme=default&count_private=true&include_all_commits=true&v=3" alt="GitHub Stats" />
