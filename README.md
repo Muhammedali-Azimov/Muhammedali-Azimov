@@ -12,7 +12,6 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Muhammedali-Azimov&label=Profile+Views" alt="profile views" />
 </p>
-
 ---
 
 ## 💬 Developer Philosophy
