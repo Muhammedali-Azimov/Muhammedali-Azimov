@@ -14,6 +14,7 @@
 </p>
 ---
 
+
 ## 💬 Developer Philosophy
 
 > _"If your code needs a comment to explain what it does, rewrite it. If it needs a comment to explain **why** it does it, write the comment."_  
