@@ -12,16 +12,6 @@
 
 ---
 
-## 🧰 Tech Stack
-
-- **Languages:** C#, SQL, Bash  
-- **Frameworks:** .NET, ASP.NET Core, Entity Framework  
-- **Databases:** PostgreSQL, Redis  
-- **Cloud & DevOps:** Azure, Docker, GitHub Actions  
-- **Principles:** SOLID, Clean Architecture, DDD
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
