@@ -1,32 +1,50 @@
-<h1 align="center">👋 Hey, I'm Muhammedali Azimov</h1>
+<h1 align="center">👋 Hi, I'm <strong>Muhammedali Azimov</strong></h1>
 
 <p align="center">
-  🧙‍♂️ Backend Developer | ⚙️ .NET Enthusiast | 🧠 Clean Code Advocate  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=🧙‍♂️+Backend+Developer;⚙️+.NET+Enthusiast;🧠+Clean+Architecture+Advocate;🚀+Building+Elegant+and+Scalable+Systems" alt="Typing SVG" />
 </p>
-<p align="center">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammedali-Azimov&show_icons=true&theme=default&count_private=true&include_all_commits=true&v=3" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammedali-Azimov&theme=default" alt="GitHub Streak" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Muhammedali-Azimov&label=Profile+Views" alt="profile views" />
-</p>
----
-
-
-## 💬 Developer Philosophy
-
-> _"If your code needs a comment to explain what it does, rewrite it. If it needs a comment to explain **why** it does it, write the comment."_  
 
 ---
 
-<h3 align="center">Let’s build something resilient, fast, and elegant. 🚀</h3>
+## 🧠 Developer Philosophy
 
+> _“Readable code is better than clever code.”_
 
+---
 
+## 🧰 Tech Stack
 
+- **Languages:** C#, SQL, Bash  
+- **Frameworks:** .NET, ASP.NET Core, Entity Framework  
+- **Databases:** PostgreSQL, Redis  
+- **Cloud & DevOps:** Azure, Docker, GitHub Actions  
+- **Principles:** SOLID, Clean Architecture, DDD
 
+---
 
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammedali-Azimov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammedali-Azimov&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammedali-Azimov&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Muhammedali-Azimov" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
