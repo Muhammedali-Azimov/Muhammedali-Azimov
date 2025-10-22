@@ -1,5 +1,4 @@
 
-
 <h1 align="center">👋 Hi, I'm <strong>Muhammedali Azimov</strong></h1>
 
 <p align="center">
